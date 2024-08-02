@@ -1,5 +1,7 @@
-## Hi there 👋
-
+#bem vindo ao meu perfil: icaro
+meu nome e:icarojuliani
+sou do: brasil
+meu instagram:@icarojuliani
 <!--
 **icarojuliani25/icarojuliani25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
